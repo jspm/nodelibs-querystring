@@ -1,7 +1,7 @@
 {
   "main": "./querystring.js",
   "name": "jspm-nodelibs-querystring",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "map": {
     "./querystring.js": {
       "node": "@node/querystring"
